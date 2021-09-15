@@ -1,2 +1,1 @@
-blah blah
-
+This is a practice project for the-odin-project that involves multiple html files and linking them all together.
